@@ -1,1 +1,2 @@
-hello new addes for remote repo
+hello new addes for remote repo 
+new line added for clone 
